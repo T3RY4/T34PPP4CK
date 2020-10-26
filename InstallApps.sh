@@ -1,0 +1,52 @@
+#!/bin/bash
+adb devices
+adb root
+adb install Chrome.apk
+adb install Magisk.apk
+adb install Telegram.apk
+adb install Clock.apk
+adb install Phone.apk
+adb install Contacts.apk
+adb install Calendar.apk
+adb install TickTick.apk
+adb install LawnChair.apk
+adb install PowerPoint.apk
+adb install Office.apk
+adb install Excel.apk
+adb install EBook.apk
+adb install Acrobar.apk
+adb install GooglePDF.apk
+adb install PowerAMP.apk
+adb install PowerAMPUnlocker.apk 
+adb install Messages.apk
+adb install Calculator.apk
+adb install Spark.apk
+adb install Vodaphone.apk
+adb install Privat24.apk
+adb install Photos.apk
+adb install ES.apk
+adb install HedgeCam.apk
+adb install SnapCamera.apk
+adb install mc24.apk
+adb install KDECon.apk
+adb install ESchool.apk
+adb install Minesweeper.apk
+adb install Dia.apk
+adb install Prom.apk
+adb install Ali.apk
+adb install Git.apk
+adb install Olx.apk
+adb install Gpay.apk
+adb install DroidCamX.apk
+adb install 4PDA.apk
+adb install NovaPoshta.apk
+adb install UkrPoshta.apk
+adb install WikiBeta.apk
+adb install GoogleFit.apk
+adb install Vanced.apk
+adb install FamilyLink.apk
+adb install 1111.apk
+adb install YTMusic.apk
+adb install Tor.apk
+adb install Gboard.apk
+
